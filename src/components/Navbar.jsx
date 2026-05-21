@@ -1,7 +1,13 @@
 function Navbar(){
     return (
         <>
-        <nav></nav>
+        <nav>
+            
+            <a href="#">Categorías</a>
+            <a href="#">CDs</a>
+            <a href="#">Vinilos</a>
+
+        </nav>
         </>
     );
 }
