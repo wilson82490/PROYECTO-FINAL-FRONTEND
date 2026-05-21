@@ -1,4 +1,7 @@
-
+import Header from './components/Header';
+import Footer from './components/Footer';
+import Navbar from './components/Navbar';
+import Home from './page/Home';
 import './App.css'
 
 function App() {
@@ -6,7 +9,10 @@ function App() {
 
   return (
     <>
-      <h1>Catalogo de Discos y Vinilos</h1>
+    <Header />
+    <Navbar />
+    <Home />
+    <Footer />
     </>
   )
 }
