@@ -1,7 +1,7 @@
 function Navbar(){
     return (
         <>
-        <nav>
+        <nav className="header-item">
             
             <a href="#">Categorías</a>
             <a href="#">CDs</a>

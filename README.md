@@ -34,9 +34,18 @@ Aplicacion para gestionar
 - JavaScript
 
 
+## Clonar el repositoio
+
+```shell
+git clone https://github.com/wilson82490/PROYECTO-FINAL-FRONTEND/tree/main
+
+git switch dev
+```
+
+
 ## Como ejecutar el proyecto
 
-``shell
+```shell
 npm install 
 npm run dev
 ```

@@ -1,8 +1,8 @@
 function Footer(){
     return (
         <>
-        <footer>
-            <div>
+        <footer className="site-footer">
+            <div className="container">
                 <p>Copyright © 2024 - Todos los derechos reservados</p>
             </div>
 
